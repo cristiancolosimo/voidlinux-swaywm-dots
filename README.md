@@ -1,0 +1,1 @@
+# voidlinux-swaywm-dots
